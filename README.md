@@ -24,7 +24,7 @@
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/nandini2907/Sales-Analytics/blob/a1c6a9c4e94f7e611e518d8896e97bb3eca177cb/P%20%26%20L%20Statement%20by%20Markets.pdf)_
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- **Purpose of finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
